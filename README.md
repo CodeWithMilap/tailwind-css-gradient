@@ -5,15 +5,13 @@ Tailwind CSS Gradient Generator is a simple web application built with React and
 ## Features
 -  **Gradient Customization:** Choose the gradient direction and customize the colors using Tailwind CSS classes.
 - **Copy Class Names:** Easily copy the generated Tailwind CSS gradient class names for quick integration.
-- Choose from preset gradient backgrounds
-- Copy generated HTML and CSS code with a single click
 
 ## Getting Started
 
 **Clone the Repository:**
    ```bash
-   git clone https://github.com/CodeWithMilap/tailwind-css-gradient-generator.git
-   cd tailwind-css-gradient-generator
+   git clone https://github.com/CodeWithMilap/tailwind-css-gradient.git
+   cd tailwind-css-gradient
 ```
 
 **Install Dependencies:**
